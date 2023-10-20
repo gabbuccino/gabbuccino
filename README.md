@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/gabbuccino/AboutGab/blob/4a2960a20e484496cd3f8802f4d7652868bc0a99/gabrielle%20rosetti%20baitan.png)
+![MasterHead](https://github.com/gabbuccino/AboutGab/blob/4a2960a20e484496cd3f8802f4d7652868bc0a99/gabrielle%20rosetti%20baitan.png)
 <h1 align="center">Gabrielle Rosetti J. Baitan</h1>
 
 <p align="center">
